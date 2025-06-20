@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Projects\\C#\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.web\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006A7632-16A0-4327-9E2C-DFECAC111AF7}|Ecommerce.ProductService\\Ecommerce.ProductService.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006A7632-16A0-4327-9E2C-DFECAC111AF7}|Ecommerce.ProductService\\Ecommerce.ProductService.csproj|solutionrelative:ecommerce.productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AEA0A-92C4-4A70-8EEF-34214DFB0E30}|Ecommerce.OrderService\\Ecommerce.OrderService.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AEA0A-92C4-4A70-8EEF-34214DFB0E30}|Ecommerce.OrderService\\Ecommerce.OrderService.csproj|solutionrelative:ecommerce.orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AEA0A-92C4-4A70-8EEF-34214DFB0E30}|Ecommerce.OrderService\\Ecommerce.OrderService.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AEA0A-92C4-4A70-8EEF-34214DFB0E30}|Ecommerce.OrderService\\Ecommerce.OrderService.csproj|solutionrelative:ecommerce.orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\it\\projects\\c#\\ecommerce\\ecommerce.web\\components\\pages\\orderslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF74B65-C2A2-446C-BFA6-5D9033727C89}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\components\\pages\\orderslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.razor",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Pages\\Cart.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Components\\Pages\\Cart.razor",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Pages\\Cart.razor",
+              "RelativeToolTip": "Ecommerce.Web\\Components\\Pages\\Cart.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T14:03:56.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Program.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Program.cs",
+              "RelativeToolTip": "Ecommerce.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:24:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Ecommerce.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T14:22:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Ecommerce.Web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T14:22:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce.ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:18:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Ecommerce.OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:15:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.OrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.OrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.OrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "Ecommerce.OrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:15:02.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersList.razor",
+              "DocumentMoniker": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Pages\\OrdersList.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Components\\Pages\\OrdersList.razor",
+              "ToolTip": "D:\\IT\\Projects\\C#\\Ecommerce\\Ecommerce.Web\\Components\\Pages\\OrdersList.razor",
+              "RelativeToolTip": "Ecommerce.Web\\Components\\Pages\\OrdersList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T14:12:45.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
